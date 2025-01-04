@@ -1,5 +1,10 @@
 # Hi there, I'm Codey! 👋
 
+## 🌍 Home 
+https://codey.eu.org
+
+> Visitors welcome!
+
 ## 🚀 About
 I'm an automation consultant and software developer, experienced in large-scale automation solutions. I have built tools to make automation more efficient and scalable, including a high level automation framework with a track record of more than 0.5 million executions to date. I can help you optimize and automate anything in a robust manner through scalable, powerful and reliable robots, crawlers and scrapers. Let us talk about what we can build together!
 
