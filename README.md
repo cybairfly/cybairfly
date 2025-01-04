@@ -6,6 +6,8 @@ I'm an automation consultant and software developer, experienced in large-scale 
 ## 🛠️ Stack
 Node, JS/TS, HTML, REST, API, RPA, CSS, PHP, SQL, Git, RegEx, Docker, Browser, Puppeteer, Playwright, WebSockets, Automation
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=cybairfly&theme=dark&show_icons=true)](https://github.com/cybairfly)
+
 ## 🔗 More
 [![link](https://skillicons.dev/icons?i=ubuntu)](https://codey.eu.org)
 [![link](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/1745212/vasek-codey-vlcek)
